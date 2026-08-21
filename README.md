@@ -8,13 +8,11 @@ Padua)
 
 ---
 
-## Full report
+## Read the full report
 
 **[Technical report (PDF, 15 pages)](ZJUreport.pdf)**
 
 <br clear="left">
-
-
 ---
 
 ## The question
