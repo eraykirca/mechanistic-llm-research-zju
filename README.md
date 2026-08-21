@@ -13,7 +13,6 @@ Padua)
 **[Technical report (PDF, 15 pages)](ZJUreport.pdf)**
 
 <br clear="left">
----
 
 ## The question
 
@@ -52,7 +51,7 @@ onto that direction and labelled.
 
 ---
 
-## Main result: attacks are mechanistic mixtures
+## attacks are mechanistic mixtures
 
 Of 509 successful jailbreaks, **67% overrode an active refusal representation and
 33% bypassed it**. The proportions differ sharply between attacks.
