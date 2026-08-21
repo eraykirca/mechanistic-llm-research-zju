@@ -8,6 +8,15 @@ Padua)
 
 ---
 
+## Full report
+
+**[Technical report (PDF, 15 pages)](ZJUreport.pdf)**
+
+<br clear="left">
+
+
+---
+
 ## The question
 
 Jailbreak evaluation reports *whether* an attack succeeds. It does not report
@@ -139,12 +148,4 @@ Reported in full in the report, and worth stating here:
   bypass class remains ambiguous between *recognised but not refused* and *never
   recognised*.
 
----
 
-## Full report
-
-**[Technical report (PDF, 15 pages)](report.pdf)**
-
-<br clear="left">
-
----
